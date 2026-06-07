@@ -1,0 +1,12 @@
+console.log("Hello, Git and GitHub!");
+console.log("This is a simple JavaScript file to demonstrate Git and GitHub.");
+console.log("You can make changes to this file and commit them to your Git repository.");
+console.log("Git allows you to track changes in your code and collaborate with others.");
+console.log("GitHub is a platform that hosts Git repositories and provides tools for collaboration.");
+console.log("Feel free to explore Git and GitHub and see how they can help you manage your code effectively!");
+console.log("Happy coding!");
+console.log("This is the end of the script.");
+console.log("Thank you for using Git and GitHub!");
+console.log("Goodbye!");
+console.log("This is a final message to indicate the end of the script.");
+console.log("End of script.");
